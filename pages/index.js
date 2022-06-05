@@ -12,7 +12,8 @@ export default function Home() {
          </Head>
 
          <main className={styles.main}>
-            <h1 className={styles.title}>Anything, with a coffee in hand!</h1>
+            <h1 className={styles.title}>Coffee Form</h1>
+            <p className={styles.title}>Anything, with a coffee in hand!</p>
          </main>
       </div>
    );
